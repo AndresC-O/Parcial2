@@ -49,6 +49,7 @@
             this.txtContra.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtContra.Location = new System.Drawing.Point(61, 164);
             this.txtContra.Name = "txtContra";
+            this.txtContra.PasswordChar = '·';
             this.txtContra.Size = new System.Drawing.Size(246, 33);
             this.txtContra.TabIndex = 1;
             // 
